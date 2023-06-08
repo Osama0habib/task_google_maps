@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891235023265",
+    "project_id": "test--maps-a6301",
+    "storage_bucket": "test--maps-a6301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891235023265:android:546dd8118e413261c273e0",
+        "android_client_info": {
+          "package_name": "com.osamahabib.task_google_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891235023265-fv5992m0gk83j9smpdcffb6eqjbabnqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz40Lq7IFmQ-TqNEpwydHU8ctvfvZMCrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891235023265-fv5992m0gk83j9smpdcffb6eqjbabnqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
